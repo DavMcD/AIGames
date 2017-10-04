@@ -1,0 +1,9 @@
+﻿  Object.cpp
+c:\users\gameuser\documents\collegeresources\ai\ailab1\ailab1\object.cpp(7): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\documents\collegeresources\ai\ailab1\ailab1\object.cpp(66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\gameuser\documents\collegeresources\ai\ailab1\ailab1\object.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gameuser\documents\collegeresources\ai\ailab1\ailab1\object.cpp(153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\gameuser\documents\collegeresources\ai\ailab1\ailab1\object.cpp(197): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\gameuser\documents\collegeresources\ai\ailab1\ailab1\object.cpp(249): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AILab1.vcxproj -> C:\Users\gameuser\Documents\CollegeResources\AI\AILab1\Debug\AILab1.exe
+  AILab1.vcxproj -> C:\Users\gameuser\Documents\CollegeResources\AI\AILab1\Debug\AILab1.pdb (Partial PDB)
