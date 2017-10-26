@@ -252,8 +252,8 @@ void Boid::swarm(vector <Boid> v)
 	Pvector sum(0, 0);
 	float RealD;
 	float RealU;
-	float A = 10;
-	float B = 30;
+	float A = 100;
+	float B = 500;
 	float M = 1;
 	float N = 0.7;
 
@@ -272,7 +272,7 @@ void Boid::swarm(vector <Boid> v)
 	}
 
 // Your code here..
-
+	sum.divScalar(v.size() - 1);
 	applyForce(sum);
 	update();
 	borders();
